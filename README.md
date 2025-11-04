@@ -4,7 +4,7 @@
 1. Go to the following GitHub repository: [radioconda-installer](https://github.com/radioconda/radioconda-installer)
    ![](images/image1.png)
 
-2. Scroll down until you see the **Download** section, then download **radioconda-Windows-x86_64.exe**.
+2. Scroll down until you see the [**Download**](https://github.com/radioconda/radioconda-installer?tab=readme-ov-file#download) section, then download **radioconda-Windows-x86_64.exe**.
    ![](images/image2.png)
 
 3. Open the downloaded file.
